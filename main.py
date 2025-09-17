@@ -15,7 +15,9 @@ with st.sidebar:
     st.divider()
     st.subheader("About")
     st.markdown("""
-    This Intelligent Health Assistant is a conversational AI designed to provide general health-related information.
+    This app is a conversational AI designed to provide general health-related information.
+    
+    **Created by:** [Anilkumar](https://github.com/anilkumarthalluri/Intelligent-Health-Assistant)
     """)
     st.divider()
     st.subheader("Resources")
